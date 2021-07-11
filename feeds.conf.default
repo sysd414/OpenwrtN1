@@ -8,3 +8,6 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-link custom /usr/src/openwrt/custom-feed
 src-git kenzok https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
+src-git hellword https://github.com/fw876/helloworld
+src-git adguardhome https://github.com/kongfl888/luci-app-adguardhome
+src-git OpenClash https://github.com/vernesong/OpenClash
